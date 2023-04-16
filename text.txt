@@ -1,0 +1,9 @@
+It is Server side framework.
+Node JS is used to Run JAVASCRIPT on server side.
+Learn NodeJS: https://nodejs.dev/en/learn/
+To avoid if-else we use express but in NodeJS if-else use it must.
+Use Thunder Client Extension to avoid go again again browser to check website response. Postman(software) also used for this purpose.
+Middle ware
+mongoose : to connect with mongoDb
+handlebars
+express handlebars: npm install express-handlebars
